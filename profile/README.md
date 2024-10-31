@@ -1,3 +1,4 @@
+# Team CivMappers
 ### Sekundärmission:
 Wir wollen die Bewohnbarkeit eines Gebiets feststellen. Das bestimmen wir durch Analyse eines Kamerabildes auf Bäume/Vegetation, Berge/Topographie und Wasser, sowie Messung der Temperatur, der Luftfeuchtigkeit, des Luftdrucks und der Richtung des Magnetfelds (Nordpol).
 

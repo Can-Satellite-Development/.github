@@ -1,6 +1,7 @@
 # Team CivMappers
-### Sekundärmission:
-Wir wollen die Bewohnbarkeit eines Gebiets feststellen. Das bestimmen wir durch Analyse eines Kamerabildes auf Bäume/Vegetation, Berge/Topographie und Wasser, sowie Messung der Temperatur, der Luftfeuchtigkeit, des Luftdrucks und der Richtung des Magnetfelds (Nordpol).
+## Mission:
+Our goal is to assess the habitability of a given area. This is determined by analyzing an image for the presence of trees/vegetation, mountains/topography, and water, alongside measurements of temperature, humidity, air pressure, and the direction of the magnetic field (north pole).
+## Motivation:
+We were inspired by various games where players build settlements or civilizations and extract resources from the surrounding environment, such as the Civilization series or Catan. These principles have fascinated us for years, and we are eager to implement an automated system for identifying optimal settlement locations.
 
-### Motivation:
-Zu dieser Idee motiviert wurden wir durch diverse Spiele, in denen man Siedlungen/Zivilisationen aufbauen und Resourcen aus der Umgebung extrahieren muss, wie die Civilization-Spielereihe oder Catan. Solche Prizipien haben uns schon lange fasziniert, und wir wollen unbedingt eine automatische Siedlungsortsbestimmung umsetzen.
+![image](https://github.com/user-attachments/assets/454928e9-177c-4e2f-881b-d95c3867afc4)
